@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I´m currently working in the tech industrie as a working student in dev ops.
-- 🌱 I’m currently learning more about .Net Core and Python
-- 📫 How to reach me: der_lenner on instagram 
+- 🌱 I’m currently learning more about Node.js and Express
+- 📫 How to reach me: der_lenner on Twitter
 - ⚡ Fun fact: I´ve met Computerphile
 
 <!--
