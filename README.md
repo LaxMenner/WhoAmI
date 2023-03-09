@@ -3,7 +3,8 @@
 - 🔭 I´m currently working in the tech industrie as a working student in dev ops.
 - 🌱 I’m currently learning more about Node.js and Express
 - 📫 How to reach me: der_lenner on Twitter
-- ⚡ Fun fact: I´ve met Computerphile
+- ⚡ Fun fact: I´ve met the one and only Schloemp
+
 
 <!--
 **Utvpie/Utvpie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
