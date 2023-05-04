@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Being a bad a cumputers since 2021<br>📚 I'm currently learning SaaS Development<br>🎯 Goals: getting more CKBs<br>🎲 Fun fact: Self-Hosting and Networking Enthusiast</p>
+<p align="left">✨ Being bad at computers since 2021<br>📚 I'm currently learning SaaS Development<br>🎯 Goals: getting more CKBs<br>🎲 Fun fact: Self-Hosting and Networking Enthusiast</p>
 
 ###
 
